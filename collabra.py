@@ -2,7 +2,7 @@ import sys
 import requests
 
 # api key that is generated from the website https://macaddress.io/ after signup
-apiKey = "at_5ElKnjROfWFUmquGtugOGLyn9KSqY"
+apiKey = "at_L3LZMulHP7AnaElNK7ARyXmpYW0FR"
 # endpoint to get the MAC Address details
 # concatenating the string with the api key variable and the system argv
 # get the system argument on index 1 as
